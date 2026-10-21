@@ -1,6 +1,6 @@
 # Báo cáo thực hành Selenium WebDriver
-**Người thực hiện:**Lê Mạnh Đức
-**Mã sinh viên** 23010208
+**Người thực hiện:**Lê Mạnh Đức  
+**Mã sinh viên** 23010208  
 **Website kiểm thử:** [SauceDemo (Swag Labs)](https://www.saucedemo.com/)  
 **Công cụ sử dụng:** Python, Selenium WebDriver, Pytest  
 
